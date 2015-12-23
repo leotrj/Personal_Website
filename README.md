@@ -1,2 +1,2 @@
-# comblie-web
-Website for the Comblie app
+# Personal Website
+Website for the myself
